@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+
+}
+.cont{
+    display: flex;
+    justify-content: center;
+}
+.tabla{
+    
+    width: 60rem;
+}
+thead{
+    background-color: rgb(241, 80, 80);
+}
+img{
+    width: 1rem;
+    height: 1rem;
+}
+td{
+    border: 1px solid black;
+    
+}
+.caja{
+    background-color: rgb(235, 157, 157);
+    width: 20rem;
+    height: 21rem;
+}
+form{
+    margin-top: 3rem;
+    display: grid;
+    justify-content: center;
+}
